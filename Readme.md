@@ -30,11 +30,11 @@ A decentralized Rock Paper Scissors game built with Solidity, Web3.js, and an ER
 
 ## Contract Details
 
-- **Contract Address**: `0x1facbedf4d72627d39bfba6fb3753623257f19faadd35e9ac06e370da4185f0e`
+- **Contract Address**: `0x401fF791402AcBCD4D6B96F74088Da4DfA671251`
 - **Network**: Mantle Sepolia Testnet
 ## Deployment
 
-- **Contract Address**: [View on Explorer]()
+- **Contract Address**: [View on Explorer](https://sepolia.mantlescan.xyz/address/0x401ff791402acbcd4d6b96f74088da4dfa671251)
 - **Coin Used**: MNT
 
 ## User Interface
@@ -84,6 +84,16 @@ The frontend is designed for simplicity and engagement:
 
 ## Screenshots
 
-1. **Main Screen**: Interactive UI with live status updates.
-2. **Game Moves**: Buttons with Rock, Paper, and Scissors images.
-3. **Winner Declaration**: Displays the winner and updates the balance.
+<img width="1440" alt="Screenshot 2024-12-13 at 1 56 15 AM" src="https://github.com/user-attachments/assets/e1ce0526-087b-4706-80d0-619a69ac4980" />
+
+<img width="1440" alt="Screenshot 2024-12-13 at 1 56 26 AM" src="https://github.com/user-attachments/assets/9c9417af-d485-4bb7-9928-e77f3b3dd1e1" />
+
+<img width="1427" alt="Screenshot 2024-12-14 at 4 36 43 PM" src="https://github.com/user-attachments/assets/99c674e5-007b-41a2-b6cc-4d4495cf1bbd" />
+
+
+
+
+
+
+
+
