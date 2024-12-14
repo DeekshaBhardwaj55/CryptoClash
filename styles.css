@@ -97,15 +97,15 @@ header h1 {
 }
 
 .rock-btn {
-    background: url('rock.png') no-repeat center / cover;
+    background: url('/images/rock.png') no-repeat center / cover;
 }
 
 .paper-btn {
-    background: url('paper.jpg') no-repeat center / cover;
+    background: url('/images/paper.jpg') no-repeat center / cover;
 }
 
 .scissors-btn {
-    background: url('scissors.png') no-repeat center / cover;
+    background: url('/images/scissors.png') no-repeat center / cover;
 }
 
 /* Add Media Query for Responsive Design */
